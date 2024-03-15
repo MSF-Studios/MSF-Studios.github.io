@@ -3,11 +3,11 @@
   <title>神之一鱼™总部</title>
   
   <subtitle>这里是“神之一鱼”的总部！你可以在这里了解我们的所有动态！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://msf-studios.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://msf-studios.github.io/"/>
   <updated>2024-03-12T04:48:31.832Z</updated>
-  <id>http://example.com/</id>
+  <id>https://msf-studios.github.io/</id>
   
   <author>
     <name>Peiqi Chen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>捐助我们</title>
-    <link href="http://example.com/2024/03/09/%E6%8D%90%E5%8A%A9%E6%88%91%E4%BB%AC/"/>
-    <id>http://example.com/2024/03/09/%E6%8D%90%E5%8A%A9%E6%88%91%E4%BB%AC/</id>
+    <link href="https://msf-studios.github.io/2024/03/09/%E6%8D%90%E5%8A%A9%E6%88%91%E4%BB%AC/"/>
+    <id>https://msf-studios.github.io/2024/03/09/%E6%8D%90%E5%8A%A9%E6%88%91%E4%BB%AC/</id>
     <published>2024-03-09T14:42:06.000Z</published>
     <updated>2024-03-12T04:48:31.832Z</updated>
     
